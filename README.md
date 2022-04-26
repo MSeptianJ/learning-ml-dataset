@@ -1,5 +1,5 @@
-# ml-uts-2
-Dataset untuk digunakan dalam ujian tengah semester mata kulah Machine Learning
+# Learning Machine Learning
+Beberapa dataset yang digunakan untuk mempelajari machine learnign diperkuliahan
 
 Referensi:
 https://www.kaggle.com/datasets/pranalibose/amazon-seller-order-status-prediction
